@@ -1,0 +1,7 @@
+/build
+/lib/*.jar
+/WebContent/WEB-INF/lib/*.jar
+.classpath
+.project
+/.metadata
+/.settings
